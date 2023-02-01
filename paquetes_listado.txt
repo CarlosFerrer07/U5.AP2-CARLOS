@@ -8,3 +8,4 @@ Estad¡sticas de ping para 192.168.1.13:
     (0% perdidos),
 Tiempos aproximados de ida y vuelta en milisegundos:
     M¡nimo = 0ms, M ximo = 0ms, Media = 0ms
+Valor incorrecto para la opci¢n -n, el intervalo v lido es de 1 a 4294967295.
