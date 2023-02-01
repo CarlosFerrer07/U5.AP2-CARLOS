@@ -2,7 +2,7 @@
 
 directorio=$1
 
-#comprobamos que el directorio del parametro exista
+#comprobamos que el directorio del parametro exis
 if [ ! -d "$directorio" ]; then
   echo "El directorio proporcionado no existe."
   exit 1
