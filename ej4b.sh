@@ -13,5 +13,5 @@ count=$(find "$directorio" -name "*.txt" | wc -l)
 
 #buscamos por nombre los archivos txt y los borramos
 find "$directorio" -name "*.txt" -delete
-
+#imprimimos
 echo "Borramos $count archivos del directorio $directorio"
